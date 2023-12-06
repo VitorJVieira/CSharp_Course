@@ -1,0 +1,14 @@
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\bin\Debug\net6.0\Overwriting.exe
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\bin\Debug\net6.0\Overwriting.deps.json
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\bin\Debug\net6.0\Overwriting.runtimeconfig.json
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\bin\Debug\net6.0\Overwriting.dll
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\bin\Debug\net6.0\Overwriting.pdb
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\obj\Debug\net6.0\Overwriting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\obj\Debug\net6.0\Overwriting.AssemblyInfoInputs.cache
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\obj\Debug\net6.0\Overwriting.AssemblyInfo.cs
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\obj\Debug\net6.0\Overwriting.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\obj\Debug\net6.0\Overwriting.dll
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\obj\Debug\net6.0\refint\Overwriting.dll
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\obj\Debug\net6.0\Overwriting.pdb
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\obj\Debug\net6.0\Overwriting.genruntimeconfig.cache
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\Overwriting\Overwriting\obj\Debug\net6.0\ref\Overwriting.dll
