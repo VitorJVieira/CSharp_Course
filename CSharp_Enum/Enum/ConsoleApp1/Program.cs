@@ -4,8 +4,8 @@ using Course.Entities.Enums;
 namespace Course {
     internal class Program {
         static void Main(string[] args) {
-            
-            Order order = new Order { 
+
+            Order order = new Order {
                 Id = 1080,
                 Moment = DateTime.Now,
                 Status = OrderStatus.PendingPayment

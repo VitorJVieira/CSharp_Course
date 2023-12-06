@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitor\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\Course.csproj": {}
+    "C:\\Users\\Vitor Jastrombek\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\Course.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitor\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\Course.csproj": {
+    "C:\\Users\\Vitor Jastrombek\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitor\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\Course.csproj",
+        "projectUniqueName": "C:\\Users\\Vitor Jastrombek\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "C:\\Users\\Vitor\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\Course.csproj",
-        "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitor\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\Vitor Jastrombek\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\Course.csproj",
+        "packagesPath": "C:\\Users\\Vitor Jastrombek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vitor Jastrombek\\Desktop\\CSharp\\CSharp_Enum\\Enum\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vitor Jastrombek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
