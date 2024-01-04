@@ -14,7 +14,7 @@ As anotações foram feitas em inglês para internacionalização do projeto.
 ## About the project (EN-US)
 
 This project have the object to show the projects and notes made during learning the course ["C# Complete Object-oriented programming + Projects" ](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/).
-The notes were made in Englisj for international porpouses.
+The notes were made in English for international porpouses.
 
 ## Author
 #### Vitor Jastrombek Vieira
