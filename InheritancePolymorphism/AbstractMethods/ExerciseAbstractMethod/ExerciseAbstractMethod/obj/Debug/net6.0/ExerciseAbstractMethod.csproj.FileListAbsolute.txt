@@ -1,0 +1,14 @@
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\bin\Debug\net6.0\ExerciseAbstractMethod.exe
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\bin\Debug\net6.0\ExerciseAbstractMethod.deps.json
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\bin\Debug\net6.0\ExerciseAbstractMethod.runtimeconfig.json
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\bin\Debug\net6.0\ExerciseAbstractMethod.dll
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\bin\Debug\net6.0\ExerciseAbstractMethod.pdb
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\obj\Debug\net6.0\ExerciseAbstractMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\obj\Debug\net6.0\ExerciseAbstractMethod.AssemblyInfoInputs.cache
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\obj\Debug\net6.0\ExerciseAbstractMethod.AssemblyInfo.cs
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\obj\Debug\net6.0\ExerciseAbstractMethod.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\obj\Debug\net6.0\ExerciseAbstractMethod.dll
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\obj\Debug\net6.0\refint\ExerciseAbstractMethod.dll
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\obj\Debug\net6.0\ExerciseAbstractMethod.pdb
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\obj\Debug\net6.0\ExerciseAbstractMethod.genruntimeconfig.cache
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\ExerciseAbstractMethod\ExerciseAbstractMethod\obj\Debug\net6.0\ref\ExerciseAbstractMethod.dll

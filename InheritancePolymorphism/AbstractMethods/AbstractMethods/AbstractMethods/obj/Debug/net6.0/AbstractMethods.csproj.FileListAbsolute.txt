@@ -1,0 +1,14 @@
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net6.0\AbstractMethods.exe
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net6.0\AbstractMethods.deps.json
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net6.0\AbstractMethods.runtimeconfig.json
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net6.0\AbstractMethods.dll
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net6.0\AbstractMethods.pdb
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net6.0\AbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net6.0\AbstractMethods.AssemblyInfoInputs.cache
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net6.0\AbstractMethods.AssemblyInfo.cs
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net6.0\AbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net6.0\AbstractMethods.dll
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net6.0\refint\AbstractMethods.dll
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net6.0\AbstractMethods.pdb
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net6.0\AbstractMethods.genruntimeconfig.cache
+C:\Users\Vitor Jastrombek\Desktop\CSharp\InheritancePolymorphism\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net6.0\ref\AbstractMethods.dll
